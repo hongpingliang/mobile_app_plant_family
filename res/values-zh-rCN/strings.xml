@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 	<string name="app_name">植物分科检索表</string>
+    <string name="app_name_setting">设置</string>
+    <string name="cancel">取消</string>
+    <string name="close">关闭</string>
+    <string name="save">保存</string>
+    <string name="ok">确定</string>
+    <string name="yes">是</string>
+    <string name="no">不</string>
+    <string name="delete">删除</string>
+    <string name="loading">加载...</string>
+    <string name="retry">重试</string>
+    <string name="remove">清除</string>
+    <string name="accept">接受</string>
+    <string name="start">开始</string>
+    <string name="finish">结束</string>
+    <string name="quiz">小测验</string>
+    <string name="confirmation">确认</string>
+    <string name="error">错误</string>
+    <string name="question_title_select">选择一个答案</string>
+    <string name="question_title_blank">填空</string>
+    <string name="question_title_truefalse">对/错</string>
+    <string name="question_select_item">哪一个%2$s的%1$s是%3$s?</string>
+    <string name="question_select_value">什么是%2$s的%1$s?</string>
+    <string name="question_blank_item">%2$s的%1$s是%3$s.</string>
+    <string name="question_blank_value">%2$s的%1$s是%3$s.</string>
+    <string name="question_truefalse">%2$s的%1$s是%3$s.</string>
+    <string name="question_true">对</string>
+    <string name="question_false">错</string>
+    <string name="menu_key_reload_data">刷新数据</string>
+    <string name="menu_key_restart">重新开始</string>
+    <string name="menu_question_restart">重新开始</string>
+    <string name="pref_question_category">问题</string>
+    <string name="pref_item_is_all_title">使用所有的科</string>
+    <string name="pref_item_is_all_summary">所有的科用于编问题 </string>
+    <string name="pref_i_will_select">我会选择</string>
+    <string name="pref_i_will_select_item_summary">选择一些科用于编问题</string>
+    <string name="pref_attr_is_all_title">使用所有的特征</string>
+    <string name="pref_attr_is_all_summary">所有的特征用于编问题 </string>
+    <string name="pref_i_will_select_attr_summary">选择一些特征用于编问题</string>
+    <string name="pref_quiz_setup_category">问题</string>
+    <string name="pref_quiz_num_of_question_title">问题总数</string>
+    <string name="pref_quiz_num_of_question_summary">小测验的问题总数</string>
+    <string name="pref_sound_category">声音</string>
+    <string name="pref_sound_title">启用声音</string>
+    <string name="pref_sound_summary">播放声音</string>
+    <string name="attr_list_row_select_value">选择</string>
+    <string name="attribute">特征</string>
+    <string name="attributes">特征</string>
+    <string name="item">科</string>
+    <string name="items">科</string>
+    <string name="selected">已选特征</string>
+    <string name="matched">找到的科</string>
+    <string name="question">问题</string>
+    <string name="question_prev">上一个</string>
+    <string name="question_next">下一个</string>
+    <string name="question_are_you_ready">问题总数: %1$d</string>
+    <string name="main_item_list">浏览所有的%1$s</string>
+    <string name="main_key">分科检索表</string>
+    <string name="main_practice_question">练习题</string>
+    <string name="main_quiz">小测验</string>
+    <string name="main_quiz_review">小测验历史</string>
+    <string name="main_setting">设置</string>
+    <string name="key_download_confirm_message">数据初始化失败. </string>
+    <string name="attr_select_select_value">选择一个值</string>
+    <string name="delete_confirmation">您确定要删除它?</string>
+    <string name="backbutton_confirmation">你一定要退出吗</string>
+    <string name="main_about">关于该应用程序</string>
+    <string name="about_message">该应用程序是由以下各方合作的结果:\n\n  软件开发: 梁红平, Web Solutions
+        \n\n  数据准备: Anthony Brach, 哈佛大学标本馆
+        \n\n  中文翻译: 杨永, 中国科学院植物研究所
+        \n\n  欢迎使用!</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Key: Plant Families</string>
+	<string name="app_db_name">plant_family_db.db</string>
+    <string name="app_free_version_attribute_id">1</string>
+        
+    <string name="item">Family</string>
+    <string name="items">Families</string>
+    <string name="attribute">Character</string>
+	<string name="attributes">Characters</string>
+	    
+    <string name="pref_item_is_all_title">Use all families</string>
+	<string name="pref_item_is_all_summary">all families will be used for question </string>
+	<string name="pref_i_will_select">I will select</string>
+	<string name="pref_i_will_select_item_summary">select some families for question</string>
+	<string name="pref_attr_is_all_title">Use all characters</string>
+	<string name="pref_attr_is_all_summary">all characters will be used for questions </string>
+	<string name="pref_i_will_select_attr_summary">select some characters for questions</string>
+		
+  
+</resources>
