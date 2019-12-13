@@ -6,7 +6,7 @@ You select characters and enter their values, such as flower color; the app will
 
 * Amazon App store: [more info...](https://www.amazon.com/Web-Solutions-Key-Plant-Families/dp/B006WBYRLY/ref=sr_1_14?qid=1576253379&refinements=p_4%3AWeb+Solutions&s=mobile-apps&sr=1-14)
 
-![alt text](https://github.com/hongpingliang/mobile_app_pubchem/blob/master/icon.png?raw=true "Plant Families")
+![alt text](https://github.com/hongpingliang/mobile_app_plant_family/blob/master/icon.png?raw=true "Plant Families")
 
 Features:
 * List of characters
